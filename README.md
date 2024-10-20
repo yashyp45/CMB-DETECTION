@@ -37,4 +37,4 @@ Acknowledgments to medical experts for their insights and validation support.
 
 
 ## Contact
-For any inquiries or issues, please open an issue on GitHub or contact us at loharprathmesh11@gmail.com.
+For any inquiries or issues, please open an issue on GitHub or contact us at yashyp2020@gmail.com.
